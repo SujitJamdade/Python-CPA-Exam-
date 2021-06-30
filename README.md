@@ -1,5 +1,5 @@
 # Python-CPA-Exam
-CPA-IRA Exam question practice - solution 
+CPA-IRA-OPA Exam question practice - solution 
 
 TCS Camera Procted Assessment question practice and solutions.
 
